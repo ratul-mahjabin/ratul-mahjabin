@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ratul-mahjabin, PhD student @ USF
 - 👀 I’m interested in Computational social science, Network science, Deep Learning
 - 🌱 I’m currently working as a Research & Teaching Assistant
-- 💞️ I’m looking to collaborate on Machine Learning/ Deep Learning
 - 📫 How to reach me: mohammadratul@usf.edu
 
 <!---
