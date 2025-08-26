@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ratul-mahjabin, CS PhD student @ USF
+- 👋 Hi, I’m [Mohammad Ratul Mahjabin](https://ratul-mahjabin.github.io), CS PhD student @ USF
 - 👀 I’m interested in Computational social science, Network science, Deep Learning
 - 🌱 I’m currently working as a Research & Teaching Assistant
 - 📫 How to reach me: mohammadratul@usf.edu
